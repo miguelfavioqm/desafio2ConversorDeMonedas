@@ -5,6 +5,8 @@
 
 El siguiente proyecto fue realizado como parte de mi formación backend en Alura Latam el mismo se denomina conversor de monedas el mismo tambien integra un conversor de temperaturas como funcionalidad extra
 
+- El proyecto fue desarrollado en Apache NetBeans IDE 18, Java: 20.0.1; JDK 20
+
 ## :hammer:Funcionalidades del proyecto
 
 - `Funcionalidad 1`: Seleccion conversor de monedas o conversor de temperatura
