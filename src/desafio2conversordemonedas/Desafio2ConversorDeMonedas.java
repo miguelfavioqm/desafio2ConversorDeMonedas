@@ -133,13 +133,12 @@ public class Desafio2ConversorDeMonedas {
                         System.out.println("Rate for amount: " + rateForAmount);
                     }
                 }catch(Exception e){
-                    //e.printStackTrace();
                     b=false;
                 }
                 }
                 
             }
-            if(input == "CONVERSOR DE TEMPERATURA"){
+            if("CONVERSOR DE TEMPERATURA".equals(input)){
                 String[] temp = { "°C a °F", "°F a °C"};
                 String input2 = (String) JOptionPane.showInputDialog(null, "Cual cambio quieres hacer",
                     "Desafio Alura", JOptionPane.QUESTION_MESSAGE, null, // Use // default// icon
